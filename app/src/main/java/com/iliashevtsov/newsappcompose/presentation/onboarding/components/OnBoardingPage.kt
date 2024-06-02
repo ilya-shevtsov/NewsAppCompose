@@ -21,7 +21,7 @@ import com.iliashevtsov.newsappcompose.presentation.Dimens.MediumPadding2
 import com.iliashevtsov.newsappcompose.presentation.onboarding.Page
 import com.iliashevtsov.newsappcompose.presentation.onboarding.pages
 import com.iliashevtsov.newsappcompose.ui.theme.NewsAppTheme
-import com.loc.newsapp.R
+import com.iliashevtsov.newsappcompose.R
 
 @Composable
 fun OnBoardingPage(

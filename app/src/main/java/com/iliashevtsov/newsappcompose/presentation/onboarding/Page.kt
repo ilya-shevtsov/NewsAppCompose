@@ -1,7 +1,7 @@
 package com.iliashevtsov.newsappcompose.presentation.onboarding
 
 import androidx.annotation.DrawableRes
-import com.loc.newsapp.R
+import com.iliashevtsov.newsappcompose.R
 
 data class Page(
     val title:String,

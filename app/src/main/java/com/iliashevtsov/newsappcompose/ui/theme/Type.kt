@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.loc.newsapp.R
+import com.iliashevtsov.newsappcompose.R
 
 val Poppins = FontFamily(
     fonts = listOf(
